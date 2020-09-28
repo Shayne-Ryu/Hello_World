@@ -1,2 +1,2 @@
 # hello_world
-This is a hello world C program. 
+##This is a hello world Java program. 
